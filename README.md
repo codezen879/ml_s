@@ -13,6 +13,7 @@ learn a lot during these 7 days and it was an amazing experience learning with D
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next 7 days bootcamp, visit:
 <a href="https://www.devtown.in/">devtown.in</a>
+
 or follow DevTown on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
